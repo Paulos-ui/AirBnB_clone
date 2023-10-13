@@ -23,5 +23,5 @@ Team project to build a clone of [AirBnB](https://www.airbnb.com/)
 All the file  in these resipository are handled by the *Storage* engine in the **FileStorage** Class.
 
 ### 0x02 Environment
-[<img src="https://www.bing.com/ck/a?!&&p=539974c2a2e47c55JmltdHM9MTY5NzE1NTIwMCZpZ3U%2BaW5zaWQ9MTU5NzE3MTU0NCZ0bj1sb2dvIG9mIGdpdGh1Yg%3D%3D%0A" width="30">](https://github.com)
+[<img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png" width="30">](https://github.com) 
 
