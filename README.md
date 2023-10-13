@@ -10,4 +10,4 @@ Welcome to my readme file
 +    0x06 Authors
 
 ### 0x01 Introduction
-Team project to build a clone of [AirBnB][https://www.airbnb.com/]
+Team project to build a clone of [AirBnB](https://www.airbnb.com/)
