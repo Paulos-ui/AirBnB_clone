@@ -11,3 +11,17 @@ Welcome to my readme file
 
 ### 0x01 Introduction
 Team project to build a clone of [AirBnB](https://www.airbnb.com/)
+
+### The console will perform the following tasks:
+
++    create a new object
++    retrive an object from a file
++    do operations on objects
++    destroy an object
+
+### Storage
+All the file  in these resipository are handled by the *Storage* engine in the **FileStorage** Class.
+
+###0x02 Environment
+[![GitHub Logo](https://www.github.com/logos/github-logo.png)](https://github.com) [![Visual Studio Logo](https://www.example.com/visual-studio-logo.png)](https://visualstudio.microsoft.com) [![Ubuntu Logo](https://ubuntu.com/ubuntu-logo.png)](https://ubuntu.com)
+
