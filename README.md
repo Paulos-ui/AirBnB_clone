@@ -25,7 +25,7 @@ All the file  in these resipository are handled by the *Storage* engine in the *
 ### 0x02 Environment
 [<img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png" width="50">](https://github.com)  [<img src="https://th.bing.com/th/id/OIP.Nl2NnLUSINXh-Iexj65F5QHaEK?pid=ImgDet&rs=1" width="50">](https://github.com) [<img src="https://th.bing.com/th/id/R.b1c66d2b33344feb0f619c5804026f44?rik=Z1uP%2bdIli64kfg&pid=ImgRaw&r=0" width="50">] 
 
-All the development and testing was runned over an operating system Ubuntu 20.04 LTS using programming language Python 3.8.3. The editors used were VIM 8.1.2269, VSCode 1.6.1 and Atom 1.58.0 . Control version using Git 2.25.1.
+All the development and testing was runned over an operating system Ubuntu 20.04 LTS using programming language Python 3.8.3. The editors used were VIM 8.1.2269, VSCode 1.6.1 and Atom 1.58.0  Control version using Git 2.25.1.
 
 ### 0x03 Installation
 
